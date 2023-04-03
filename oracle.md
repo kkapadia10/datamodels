@@ -1,1 +1,1 @@
-Oracle [oracle](https://www.oracle.com/)
+[Oracle](https://www.oracle.com/) can be accessed at https://www.oracle.com/. It is a commercial networked relational database that utilizes client/server and cloud-based hosting. Additionally, by using various APIs, such as [cx_Oracle](https://oracle.github.io/python-cx_Oracle/) or [JDBC](https://www.oracle.com/database/technologies/faq-jdbc.html), Oracle is able to support both Java and Python. 
