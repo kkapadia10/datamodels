@@ -14,6 +14,8 @@ Firebase: [firebase.md](firebase.md)
 
 Apache HBase: [hbase.md](hbase.md)
 
+Informix: [informix.md](informix.md)
+
 Extra Credit (InfluxDB as a time-series based model)
 
 InfluxDB: [influxdb.md](influxdb.md)
