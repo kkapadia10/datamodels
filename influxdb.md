@@ -1,5 +1,5 @@
 InfluxDB can be accessed at https://www.influxdata.com/products/influxdb-overview/. It is a [open-source](https://en.wikipedia.org/wiki/InfluxDB#:~:text=InfluxDB%20is%20an%20open%2Dsource,%2C%20and%20real%2Dtime%20analytics.) 
-time-series database that is designed to handle high volumes of time-stamped data
+time-series database that is designed to handle high volumes of time-stamped data.
 Additionally, it is a [time-series based database model](https://www.influxdata.com/time-series-forecasting-methods/#:~:text=Time%20series%20models%20are%20used,on%20the%20individual%20time%20series.). It utilizes cloud-based and embedded deployments 
 It can be accessed using various APIs, including [REST](https://docs.influxdata.com/influxdb/v1.8/tools/api/), [gRPC](https://pkg.go.dev/github.com/zakhio/go-metrics-influxdb-grpc-example), and a native client library for Python, among others.
 InfluxDB is commonly used in applications such as [IoT data analytics](https://www.datadoghq.com/dg/monitor/iot/?utm_source=advertisement&utm_medium=search&utm_campaign=dg-google-iot-na&utm_keyword=analyze%20iot&utm_matchtype=p&utm_campaignid=15832880564&utm_adgroupid=133763745995&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKs83riQYyHTCvN7pHaCh3Zrd0kdZ_1QwEXUTCDRi3X13zVWpPLaqssaAnp8EALw_wcB), monitoring and alerting, and real-time metrics analysis.
