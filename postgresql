@@ -1,0 +1,2 @@
+[PostgreSQL](https://www.postgresql.org/) can be accessed at https://www.postgresql.org/. 
+It is commercial, meaning it is available at a certain price and needs to be purchased to be accessed. Additionally, it is networked relational database. It utilizes client/server and cloud-based hosting. Additionally, by using various APIs, such as cx_Oracle or JDBC, Oracle is able to support both Java and Python.
