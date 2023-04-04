@@ -1,7 +1,7 @@
 MongoDB can be accessed at [this website](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-us_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624338&adgroup=115749704103&cq_cmp=12212624338&gclid=Cj0KCQjw8qmhBhClARIsANAtbocysnCuGVEbF0XsQaTOPQTYnOfklRQRuTopUI8V7aIaQ.FrCchZfGI4aAuDFEALw_wcB). 
 MongoDB is both open-source and commerical. The [MongoDB community server](https://www.mongodb.com/try/download/community) is open-source and free to install. However, the [MongoDB Enterprise Advanced Server](https://www.mongodb.com/try/download/enterprise-advanced)
 is commerical and requires a paid subscription. The advanced server includes [additional security, auditing, management, and tooling features](https://www.mongodb.com/community/forums/t/mongo-db-free-for-business-commercial-usage-without-limitation-of-db-size/153002#:~:text=MongoDB%20Community%20Server%20(SSPL)%2C,commercial%20support%20subscription%20(Commercial%20License)).
-Additionally, it is a NoSQL database. It uses a document based model. It utilizes both client/server and cloud-based hosting. 
+Additionally, it is a NoSQL database. It uses a [ocument based](https://www.mongodb.com/document-databases) model. It utilizes both client/server and cloud-based hosting. 
 It has native [drivers](https://www.mongodb.com/docs/drivers/node/current/) for Java and Python to access it.
 To connect to the driver, download the driver from the MongoDB website and include it in your Java application's classpath. Once the driver is 
 installed, create a MongoClient object to connect to the database.
