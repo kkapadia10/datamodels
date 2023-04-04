@@ -1,1 +1,1 @@
-couchbase
+Couchbase can be accessed at https://www.couchbase.com/. Couchbase is an commercial database, meaning it has code that is open and free for download, modification and re-use. Additionally, it is a embedded relational database. It utilizes an embedded hosting model. It has native drivers for Java and Python, and it can also be accessed through various libraries and APIs, such as sqlite3.
