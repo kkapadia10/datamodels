@@ -16,10 +16,6 @@ BerkeleyDB: [berkeleydb.md](berkeleydb.md)
 
 Firebase: [firebase.md](firebase.md)
 
-
-
-
-
-Extra Credit
+Extra Credit (InfluxDB as a time-series based model)
 
 InfluxDB: [influxdb.md](influxdb.md)
