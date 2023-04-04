@@ -1,0 +1,3 @@
+SQLite can be accessed at https://sqlite.org/index.html/. 
+SQLite is an open-source database, meaning it has code that is [open and free for download, modification and re-use](https://www.heavy.ai/technical-glossary/open-source-database#:~:text=An%20open%20source%20database%20has,is%20protected%20to%20prevent%20copying.)
+Additionally, it is a embedded relational database. It utilizes an embedded hosting model. It has [native drivers](https://www.devart.com/odbc/sqlite/) for Java and Python, and it can also be accessed through various libraries and APIs, such as [sqlite3](https://docs.python.org/3/library/sqlite3.html#:~:text=SQLite%20is%20a%20C%20library,SQLite%20for%20internal%20data%20storage.).
