@@ -3,3 +3,5 @@ MongoDB is both open-source and commerical. The [MongoDB community server](https
 is commerical and requires a paid subscription. The advanced server includes [additional security, auditing, management, and tooling features](https://www.mongodb.com/community/forums/t/mongo-db-free-for-business-commercial-usage-without-limitation-of-db-size/153002#:~:text=MongoDB%20Community%20Server%20(SSPL)%2C,commercial%20support%20subscription%20(Commercial%20License)).
 Additionally, it is a NoSQL database. It utilizes both client/server and cloud-based hosting. 
 It has native [drivers](https://www.mongodb.com/docs/drivers/node/current/) for Java and Python to access it.
+To connect to the driver, download the driver from the MongoDB website and include it in your Java application's classpath. Once the driver is 
+installed, create a MongoClient object to connect to the database.
