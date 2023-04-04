@@ -11,3 +11,7 @@ SQLite: [sqlite.md](sqlite.md)
 Couchbase: [couchbase.md](couchbase.md)
 
 MariaDB: [mariadb.md](mariadb.md)
+
+BerkeleyDB: [berkeleydb.md](berkeleydb.md)
+
+Firebase: [firebase.md](firebase.md)
